@@ -12,6 +12,7 @@ Have fun.
 Feel free to roast my code. I'm always eager to learn
 
 # Usage:
-HookDetector.exe <PID>
+HookDetector.exe PID
+
 
 
